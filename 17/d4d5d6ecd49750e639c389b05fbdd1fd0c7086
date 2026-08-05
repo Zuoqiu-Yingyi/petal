@@ -1,0 +1,23 @@
+docs/superpowers/plans/2026-08-05-goja-sandbox-globals.md
+  s_c7c1b9af6514e8::t_f4510b9efb6bcb 149-152,158,160,162,164,166
+  s_c7c1b9af6514e8::t_ec0ce745590dba 331-332,347,355,359,373,381
+  s_c7c1b9af6514e8::t_64c25e9742da7f 298-306
+  s_c7c1b9af6514e8::t_a5fe76fc3b77a5 385
+  s_c7c1b9af6514e8::t_b4720582b0ecca 1-148,153-157,159,161,163,165,167-297,307-330,333-346,348-354,356-358,360-372,374-380,382-384,386-417
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "17d4d5d6ecd49750e639c389b05fbdd1fd0c7086",
+  "prompts": {},
+  "sessions": {
+    "s_c7c1b9af6514e8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cce93fd3-22f9-4121-81f6-5dabb365ab8e",
+        "model": "claude-glm-5.2"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
