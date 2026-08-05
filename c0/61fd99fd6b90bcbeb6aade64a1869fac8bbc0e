@@ -1,0 +1,29 @@
+types/kernel/goja.d.ts
+  s_c7c1b9af6514e8::t_9de82ec968687a 19,25-32,34-42
+types/kernel/siyuan.d.ts
+  ai_agent 1-1215
+types/kernel/index.d.ts
+  ai_agent 1-19
+kernel.d.ts
+  s_c7c1b9af6514e8::t_c7244b66a5b090 5,7-8
+  s_c7c1b9af6514e8::t_ceb936f4581133 10,13,15-17,19-22,24,27,29-35,37,39,42,44-53,55-66,68,71,73-78,80-84,87,89-90,95,97-100,102-106,109,111-112,117,119-121,123-126,129,131-132,136,139,141-142,144,147,149-151,153
+  s_c7c1b9af6514e8::t_76ed70164e0b01 92
+  s_c7c1b9af6514e8::t_f85adc6ea34d35 134
+  s_c7c1b9af6514e8::t_2809dfc7b36562 114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "c061fd99fd6b90bcbeb6aade64a1869fac8bbc0e",
+  "prompts": {},
+  "sessions": {
+    "s_c7c1b9af6514e8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cce93fd3-22f9-4121-81f6-5dabb365ab8e",
+        "model": "claude-glm-5.2"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
