@@ -1,0 +1,20 @@
+docs/superpowers/specs/2026-08-05-goja-sandbox-globals-design.md
+  s_c7c1b9af6514e8::t_81c97f1c734738 1-58,60-63,65-84
+  s_c7c1b9af6514e8::t_b2791d1211df1f 59,64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.39-trip",
+  "base_commit_sha": "38816c318d5362f2e1c5d6cccd850ed0966115b2",
+  "prompts": {},
+  "sessions": {
+    "s_c7c1b9af6514e8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cce93fd3-22f9-4121-81f6-5dabb365ab8e",
+        "model": "claude-glm-5.2"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
