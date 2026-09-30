@@ -1,0 +1,23 @@
+siyuan.d.ts
+  s_bac7264bdd4163::t_2e95c0a3014eca 12,156-160,183,217-220,228-238,285-288,290-294,699,774,866,888
+  s_bac7264bdd4163::t_427a1d8c62635a 789,795,857,872
+  s_bac7264bdd4163::t_5d2f4da99085ab 763,968-969
+CHANGELOG.md
+  s_bac7264bdd4163::t_de4638e49c5912 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "02a9add27334a9005f1b1040bd2fbdf8c588ddb0",
+  "prompts": {},
+  "sessions": {
+    "s_bac7264bdd4163": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_m1nur70p7f3z",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
