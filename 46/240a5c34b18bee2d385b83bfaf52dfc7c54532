@@ -1,0 +1,23 @@
+types/protyle.d.ts
+  s_bac7264bdd4163::t_7abe85a501ac0f 6,9,37-40,52,54,64-65,71,87,102-103,109,111,121,133,135-136,143,154,177,179,194,196,277,281-283,289-290,300
+  s_bac7264bdd4163::t_b943e90f9e2964 134,287,359-360,378,414-432,434,622-623,743-744,753-754,809-814,990-991,1082-1083
+  s_bac7264bdd4163::t_081c8309fc0cbd 358,413
+CHANGELOG.md
+  s_bac7264bdd4163::t_d23c0fe339605c 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "46240a5c34b18bee2d385b83bfaf52dfc7c54532",
+  "prompts": {},
+  "sessions": {
+    "s_bac7264bdd4163": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_m1nur70p7f3z",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
