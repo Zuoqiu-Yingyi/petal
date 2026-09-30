@@ -1,0 +1,19 @@
+CHANGELOG.md
+  s_bac7264bdd4163::t_f091c03bcc0dbc 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "94a762cef75c24d8690011b13caac7c5943f628f",
+  "prompts": {},
+  "sessions": {
+    "s_bac7264bdd4163": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_m1nur70p7f3z",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
