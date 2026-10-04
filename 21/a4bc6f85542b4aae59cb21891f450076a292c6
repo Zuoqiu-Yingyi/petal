@@ -1,0 +1,27 @@
+kernel.d.ts
+  s_612b1e3a337e6d::t_e914e54081419c 164
+  s_612b1e3a337e6d::t_bbe8f32aee124f 1799-1838,1845-1895,1907-1924
+  s_612b1e3a337e6d::t_7826f818b22cba 28-39
+  s_612b1e3a337e6d::t_b888d101a6c107 157-163
+  s_612b1e3a337e6d::t_373d60a1c109af 443-444,447
+  s_612b1e3a337e6d::t_2cfb8bec8c4815 1839-1844
+  s_612b1e3a337e6d::t_e23e559cd6e3e1 1896-1906
+CHANGELOG.md
+  s_612b1e3a337e6d::t_1489fd6178d54b 5-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "21a4bc6f85542b4aae59cb21891f450076a292c6",
+  "prompts": {},
+  "sessions": {
+    "s_612b1e3a337e6d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_bqu9k3g4ovsv",
+        "model": "auto(free)"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
