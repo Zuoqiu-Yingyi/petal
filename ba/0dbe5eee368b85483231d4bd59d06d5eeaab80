@@ -1,0 +1,21 @@
+CHANGELOG.md
+  s_612b1e3a337e6d::t_2efb9f0219fe0b 5-6
+kernel.d.ts
+  s_612b1e3a337e6d::t_a97f841c3606a8 40-57,163-171,1950-2113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "ba0dbe5eee368b85483231d4bd59d06d5eeaab80",
+  "prompts": {},
+  "sessions": {
+    "s_612b1e3a337e6d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_bqu9k3g4ovsv",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
