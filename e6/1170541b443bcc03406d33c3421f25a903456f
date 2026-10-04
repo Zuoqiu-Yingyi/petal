@@ -1,0 +1,32 @@
+kernel.d.ts
+  s_612b1e3a337e6d::t_b156e32b442266 20-28
+  s_612b1e3a337e6d::t_3fad62ed9b53e7 119-169
+types/kernel/url.d.ts
+  s_612b1e3a337e6d::t_dda02595e52708 1-144
+types/kernel/primitives.d.ts
+  s_612b1e3a337e6d::t_42cc81ca2e044c 69-82
+CHANGELOG.md
+  s_612b1e3a337e6d::t_5f978d963a1660 5-6
+types/kernel/console.d.ts
+  s_612b1e3a337e6d::t_6428363c155040 1-6,8,16-28
+  s_612b1e3a337e6d::t_a8a9b73f120a58 7,9-15
+types/kernel/timers.d.ts
+  s_612b1e3a337e6d::t_025daf104727dd 1-4,7-14,17-24,27-77
+  s_612b1e3a337e6d::t_7388f1d9ead836 5-6,15-16,25-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "e61170541b443bcc03406d33c3421f25a903456f",
+  "prompts": {},
+  "sessions": {
+    "s_612b1e3a337e6d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_bqu9k3g4ovsv",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
