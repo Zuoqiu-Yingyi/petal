@@ -1,0 +1,24 @@
+CHANGELOG.md
+  s_612b1e3a337e6d::t_9e0457ef3c3ea2 5,7
+  s_612b1e3a337e6d::t_94f141b7447bd3 6
+kernel.d.ts
+  s_612b1e3a337e6d::t_6597d8aa5cba42 205-206,210-212,215-217,219-225,229-231,235-237,240-243,246-248,251-253,258-260,263-265,268-270,275-277,280-282,285-287,290-292,295-297,300-302,305-307,310-312,315-317,320-321
+  s_612b1e3a337e6d::t_b594ba1377f927 11
+  s_612b1e3a337e6d::t_dcd591a4c14a0a 12-19,207-209,213-214,218,226-228,232-234,238-239,244-245,249-250,254-257,261-262,271-274
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "c517cd0ab6e609d44d97019d0c895ca58e06ba11",
+  "prompts": {},
+  "sessions": {
+    "s_612b1e3a337e6d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_bqu9k3g4ovsv",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
