@@ -1,0 +1,24 @@
+types/kernel/crypto.d.ts
+  s_612b1e3a337e6d::t_c2727e98a6ef78 280,433
+CHANGELOG.md
+  s_612b1e3a337e6d::t_9e0457ef3c3ea2 5
+  s_612b1e3a337e6d::t_e50652a01c357a 6
+kernel.d.ts
+  s_612b1e3a337e6d::t_db10c2830fd883 71,73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "802ec019bc19a3b8b4afd821ebfbe44d8ae9b0a6",
+  "prompts": {},
+  "sessions": {
+    "s_612b1e3a337e6d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_bqu9k3g4ovsv",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
