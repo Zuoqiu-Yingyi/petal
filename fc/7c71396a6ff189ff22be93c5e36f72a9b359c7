@@ -1,0 +1,34 @@
+CHANGELOG.md
+  s_612b1e3a337e6d::t_955ad80cfa3138 5-6
+types/kernel/require.d.ts
+  s_612b1e3a337e6d::t_dc3b626e9d7bf4 1-20
+types/kernel/plugin.d.ts
+  s_612b1e3a337e6d::t_73c1499fe1223a 254-267,270-275
+  s_612b1e3a337e6d::t_62a6ca0ecc18be 268-269
+types/kernel/siyuan.d.ts
+  s_612b1e3a337e6d::t_64068fb4335bb4 1,28-31
+types/kernel/index.d.ts
+  s_612b1e3a337e6d::t_76bc3deb967a45 19-20
+kernel.d.ts
+  s_612b1e3a337e6d::t_4a019cbdd9c7ad 21-29,37-41,48,74-75,190-195,227-232
+  s_612b1e3a337e6d::t_39bfec028ee581 34-36
+  s_612b1e3a337e6d::t_052fb7e3112536 33,42-47
+types/kernel/goError.d.ts
+  s_612b1e3a337e6d::t_ea75e6262bb014 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "fc7c71396a6ff189ff22be93c5e36f72a9b359c7",
+  "prompts": {},
+  "sessions": {
+    "s_612b1e3a337e6d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_bqu9k3g4ovsv",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
