@@ -1,0 +1,24 @@
+CHANGELOG.md
+  s_612b1e3a337e6d::t_5dd9659c74b01c 5-6
+kernel.d.ts
+  s_612b1e3a337e6d::t_33c6169d57d651 2214-2517
+  s_612b1e3a337e6d::t_6ee2de8fdcbb14 1091-1105,1110,1125-1126
+  s_612b1e3a337e6d::t_d0acdfaf05366e 58-91
+  s_612b1e3a337e6d::t_f4a7faa2561a81 194-203,216-223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "35c476e4283556aeb6286196ebcaae959219193b",
+  "prompts": {},
+  "sessions": {
+    "s_612b1e3a337e6d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_bqu9k3g4ovsv",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
