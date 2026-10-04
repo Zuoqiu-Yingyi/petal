@@ -1,0 +1,58 @@
+types/kernel/client.d.ts
+  s_612b1e3a337e6d::t_98e841774549eb 2-43
+  s_612b1e3a337e6d::t_c18cfab5fcde84 1
+types/kernel/crypto.d.ts
+  s_612b1e3a337e6d::t_62e4ac2a0cb093 87-242
+  s_612b1e3a337e6d::t_0ee26d0b44086b 243-458
+  s_612b1e3a337e6d::t_5496cebeef8c7f 1-86
+types/kernel/textEncoding.d.ts
+  s_612b1e3a337e6d::t_952ba21ea080af 1-89
+types/kernel/server.d.ts
+  s_612b1e3a337e6d::t_29573de0ab45d9 1-173
+types/kernel/plugin.d.ts
+  s_612b1e3a337e6d::t_f1f7d5b07060de 1-146
+  s_612b1e3a337e6d::t_8fc0692883e8a5 147-253
+types/kernel/serverResponse.d.ts
+  s_612b1e3a337e6d::t_ae8a7f53ceca32 1-197
+types/kernel/streams.d.ts
+  s_612b1e3a337e6d::t_d8ad041f6b0a90 78-202
+  s_612b1e3a337e6d::t_81b81f5d022828 203-304
+  s_612b1e3a337e6d::t_3eacaaab9e0f8f 1-77
+types/kernel/events.d.ts
+  s_612b1e3a337e6d::t_d9c7ce87a51003 1-91
+types/kernel/siyuan.d.ts
+  s_612b1e3a337e6d::t_53b44e0b62e6a3 1-31
+types/kernel/abort.d.ts
+  s_612b1e3a337e6d::t_7fda1bf2ec9c50 1-123
+types/kernel/serverRequest.d.ts
+  s_612b1e3a337e6d::t_215829b6f6891d 1-173
+kernel.d.ts
+  s_612b1e3a337e6d::t_b54868e2871694 5,15-19,21
+types/kernel/formData.d.ts
+  s_612b1e3a337e6d::t_8771b76ba0505d 1-174
+types/kernel/index.d.ts
+  s_612b1e3a337e6d::t_68729551228457 16-18
+  s_612b1e3a337e6d::t_be1095d81c2dcf 1-15
+types/kernel/webSocket.d.ts
+  s_612b1e3a337e6d::t_f8155cba8ce572 1-139
+types/kernel/primitives.d.ts
+  s_612b1e3a337e6d::t_f9d88abef6b926 1-132
+types/kernel/eventSource.d.ts
+  s_612b1e3a337e6d::t_e99804cf3bb223 1-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "493f786e1d223c3e9a34ff30ee60287b65aadb81",
+  "prompts": {},
+  "sessions": {
+    "s_612b1e3a337e6d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_bqu9k3g4ovsv",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Yingyi / 颖逸 <49649786+Zuoqiu-Yingyi@users.noreply.github.com>"
+    }
+  }
+}
